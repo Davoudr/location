@@ -1,4 +1,4 @@
-# map-marker
+# google-map-react
 
 ## A react component to return a google-map;
 - using :
