@@ -5,7 +5,7 @@
 - logging out the lat-lng of any selected location on the map;
 - adding marker to any selected location on the map;
 
-### using :
+### install this package :
 
 | package  | version     | 
 | :-------- | :------- | 
@@ -19,7 +19,7 @@ ___
 ## An autocomplete address input
 ### Features :
 - address search bar with autocomplete by google 
-### using :
+### install this package : :
 | package  | version     | 
 | :-------- | :------- | 
 | `react-places-autocomplete` | `^7.3.0` | 
