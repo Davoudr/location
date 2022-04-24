@@ -18,7 +18,7 @@ ____
 ___
 ___
 ___
-#react-places-autocomplete
+# react-places-autocomplete
 add the google-api to this script
 - <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script>
 then, you must include it in the index.html ---> <body>HERE</body>
