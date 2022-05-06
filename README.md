@@ -1,5 +1,5 @@
 # google-map-react
-## A react component to return a google-map:
+## A react component to return a google-map + marker onClick:
 ### Features :
 - rendering markers in the map based on the given locations array;
 - logging out the lat-lng of any selected location on the map;
